@@ -1,0 +1,14 @@
+/home/lionel/Projects/SpringFrameworkGuru.Udemy/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Pet.java
+/home/lionel/Projects/SpringFrameworkGuru.Udemy/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/CrudService.java
+/home/lionel/Projects/SpringFrameworkGuru.Udemy/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/map/VetServiceMap.java
+/home/lionel/Projects/SpringFrameworkGuru.Udemy/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Person.java
+/home/lionel/Projects/SpringFrameworkGuru.Udemy/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/OwnerService.java
+/home/lionel/Projects/SpringFrameworkGuru.Udemy/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/map/AbstractMapService.java
+/home/lionel/Projects/SpringFrameworkGuru.Udemy/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Owner.java
+/home/lionel/Projects/SpringFrameworkGuru.Udemy/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/map/PetServiceMap.java
+/home/lionel/Projects/SpringFrameworkGuru.Udemy/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/VetService.java
+/home/lionel/Projects/SpringFrameworkGuru.Udemy/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Vet.java
+/home/lionel/Projects/SpringFrameworkGuru.Udemy/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/PetType.java
+/home/lionel/Projects/SpringFrameworkGuru.Udemy/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/BaseEntity.java
+/home/lionel/Projects/SpringFrameworkGuru.Udemy/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/map/OwnerServiceMap.java
+/home/lionel/Projects/SpringFrameworkGuru.Udemy/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/PetService.java
